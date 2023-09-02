@@ -15,3 +15,22 @@
         - moviesGrid.jsx
         - movies.json
         - moviesCard
+        - movieCard.module.css
+        - moviesGrid.module.css
+
+## se añadieron links de imagenes de peliculas
+        - movies.json
+
+## se definieron estilos css grid y formatos de colores
+
+## creacion de nuevas carpetas y se mueven archivos
+    - pages
+        - movieDetails.jsx
+        - landingPage.jsx
+    - components
+        - movieCard.jsx
+        - movieCard.module.css
+        - movies.json
+        - moviesGrid.jsx
+        - moviesGrid.module.css
+
