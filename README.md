@@ -33,4 +33,10 @@
         - movies.json
         - moviesGrid.jsx
         - moviesGrid.module.css
+        - spinner.jsx
+        - spinner.module.css
+        - search.jsx
+        - search.module.css
+    - utils
+        - httpClient.js
 
